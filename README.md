@@ -2,7 +2,7 @@ Please feel free to contact us at liviu.cotfas at ase .ro for the `NetLogo` sour
 
 # Boarding Methods
 
-> All the simulations below have been performed using the luggage situation S1.
+> All the simulations below have been performed using the luggage situation S1, described in our paper.
 
 ## BS5-Reverse-pyramid-A
 ![bs5-s1](recordings/bs5-s1.gif)
