@@ -4,6 +4,15 @@ Please feel free to contact us at liviu.cotfas at ase .ro for the `NetLogo` sour
 
 > All the simulations below have been performed using the luggage situation S1, described in our paper.
 
+## BS2-Back-to-front
+![bs2-s1](recordings/bs2-s1.gif)
+
+## BS3-Spread-across-rows
+![bs3-s1](recordings/bs3-s1.gif)
+
+## BS4-Spread-across-rows-half
+![bs4-s1](recordings/bs4-s1.gif)
+
 ## BS5-Reverse-pyramid-A
 ![bs5-s1](recordings/bs5-s1.gif)
 
