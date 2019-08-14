@@ -1,4 +1,7 @@
-Please feel free to contact us at liviu.cotfas at ase .ro for the `NetLogo` source code.
+Please feel free to contact us at liviu.cotfas at ase .ro for the `NetLogo` source code. More details are available in our paper: 
+
+>R. J. Milne, C. Delcea, L.-A. Cotfas, and M. Salari, “New methods for two-door airplane boarding using apron buses,” Journal of Air Transport Management, vol. 80, p. 101705, Sep. 2019. https://www.sciencedirect.com/science/article/abs/pii/S096969971930047X
+
 
 # Boarding Methods
 
